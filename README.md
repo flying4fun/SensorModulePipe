@@ -37,3 +37,4 @@ void discoverOneWireDevices(void) {
   return;
 }
 
+(http://www.hacktronics.com/Tutorials/arduino-1-wire-address-finder.html)
