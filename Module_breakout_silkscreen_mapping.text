@@ -1,0 +1,11 @@
+mask    actual
+A1      D9      
+A2      D3      
+A3      SCL     
+SDA     A3      
+SCL     A1      
+D2      A2      
+D3      SDA     
+D6      D2      
+D9      D6      
+D10     D10     
